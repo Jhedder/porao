@@ -1,0 +1,1 @@
+lista = ["Maça","Banana","Morango","Abacaxi","Goiaba","Melão","Pera","Pessego","Melancia","Manga"]
